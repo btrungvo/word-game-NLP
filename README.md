@@ -1,15 +1,10 @@
 # Hangman guesser
-
+[!Note]
+Work in progress, do not copy or redistribute
 ## Project Description
+Build AI/ML model to guess letter in hidden word in a Hangman game
 
-## Datasets
-
-## Model
-
-## Dependencies
-
-## Inferrer
-
+## Current Model - Model1
+Using ngrams model from NLP
 ## Future Plan
-
-## References
+Build Deeplearning model with transformer
