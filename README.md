@@ -1,6 +1,6 @@
 # Hangman guesser
 [!Note]
-Work in progress, do not copy or redistribute
+>Work in progress, do not copy or redistribute
 ## Project Description
 Build AI/ML model to guess letter in hidden word in a Hangman game
 
