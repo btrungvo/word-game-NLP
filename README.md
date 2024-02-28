@@ -1,4 +1,4 @@
-# Hangman guesser
+# Word guesser
 >[!NOTE]
 >Work in progress, do not copy or redistribute
 ## Project Description
