@@ -1,6 +1,6 @@
 # Word guesser
 >[!NOTE]
->Work in progress
+>Run word_game_NLP.ipynb to play, you can play manually or let it play with the test.txt dataset
 
 ## Project Description
 Build AI/ML model to guess a hidden word, inspired by this [game](https://en.wikipedia.org/wiki/Hangman_(game))
@@ -13,8 +13,5 @@ Build AI/ML model to guess a hidden word, inspired by this [game](https://en.wik
 * Player choose input hidden word and let the AI guess.
 
 ## Current Bot Options
-> ### Model1
+> ### $${\color{red}Model_1
 > Built n-grams model from scratch without NLTK package. I find that a combination of 1 to 6-grams models is effective, although the number of n-gram models can increase with the extent of computational cost.
-
-## Future Plan
-Build Deeplearning model with transformer
