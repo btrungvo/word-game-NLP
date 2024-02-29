@@ -6,8 +6,10 @@
 Build AI/ML model to guess a hidden word, inspired by this [game](https://en.wikipedia.org/wiki/Hangman_(game))
 
 ## Game rules
-* Hidden word is given by user or randomly picked from test.txt dataset. Eg: "_ _ _ _ _"
-* If the guess letter is correct, the system will return an update state on the hidden word. Eg: "_ p p _ _"
+* Hidden word is given by user or randomly picked from test.txt dataset. Eg: "apple"
+* The word is masked with underscores ("_ _ _ _ _")
+* AI bot will try to pridict that hidden word by guess a letter as a time.
+* If the guess letter is correct, the system will return an update state on the hidden word. Eg: Guessed "p" -> "_ p p _ _"
 * There is a limit of 6 attempts, each wrong guess will decrease the attempt by 1.
 * Game ends when the word is fully revealed or the attempts remains reaches 0.
 
