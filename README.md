@@ -13,5 +13,5 @@ Build AI/ML model to guess a hidden word, inspired by this [game](https://en.wik
 * Player choose input hidden word and let the AI guess.
 
 ## Current Bot Options
-> ### $${\color{red}Model_1
+> ### $${\color{red}Model_1$$
 > Built n-grams model from scratch without NLTK package. I find that a combination of 1 to 6-grams models is effective, although the number of n-gram models can increase with the extent of computational cost.
