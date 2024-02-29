@@ -13,7 +13,7 @@ Build AI/ML model to guess a hidden word, inspired by this [game](https://en.wik
 * There is a limit of 6 attempts, each wrong guess will decrease the attempt by 1.
 * Game ends when the word is fully revealed or the attempts remains reaches 0.
 
-## Current Playable Models
+## Current Playable Bots
 ## $${\color{red}Model_1}$$
 > Model_1 is n-grams model from scratch without NLTK package, it is train on lowcase English words from nltk.corpus.words.words() dictionary. I find that a combination of 1 to 6-grams models is effective, although the number of n-gram models can be increased with the extent of computational cost.
 ## $${\color{red}Model_2}$$
