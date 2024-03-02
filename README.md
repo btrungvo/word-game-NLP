@@ -15,12 +15,12 @@ Build AI/ML model to guess a hidden word, inspired by this [game](https://en.wik
 
 ## Current Playable Bots
 ## $${\color{orange}Model_1}$$
-> $${\color{white}Model_1 is n-grams model from scratch without NLTK package, it is train on lowcase English words from nltk.corpus.words.words() dictionary.
-> I find that a combination of 1 to 6-grams models is effective, although the number of n-gram models can be increased with the expense of computational cost.
-> Model_1 Structure:}$$
-> <p align="center">
->  <img src="https://github.com/btrungvo/word-game-NLP/blob/main/Model_1">
-> </p>
+Model_1 is n-grams model from scratch without NLTK package, it is train on lowcase English words from nltk.corpus.words.words() dictionary.
+I find that a combination of 1 to 6-grams models is effective, although the number of n-gram models can be increased with the expense of computational cost.
+Model_1 Structure:
+<p align="center">
+<img src="https://github.com/btrungvo/word-game-NLP/blob/main/Model_1">
+</p>
 
 ## $${\color{orange}Model_2}$$
-> Work in progresss, thinking LSTM, NLP, Transformer.... I will finish it when I have some free time!
+Work in progresss, thinking LSTM, NLP, Transformer.... I will finish it when I have some free time!
