@@ -14,8 +14,8 @@ Build AI/ML model to guess a hidden word, inspired by this [game](https://en.wik
 * Game ends when the word is fully revealed or the attempts remains reaches 0.
 
 ## Current Playable Bots
-## $${\color{blue}Model_1}$$
+## $${\color{orange}Model_1}$$
 > Model_1 is n-grams model from scratch without NLTK package, it is train on lowcase English words from nltk.corpus.words.words() dictionary.
 > I find that a combination of 1 to 6-grams models is effective, although the number of n-gram models can be increased with the expense of computational cost.
-## $${\color{blue}Model_2}$$
+## $${\color{orange}Model_2}$$
 > Work in progresss, thinking LSTM, NLP, Transformer.... I will finish it when I have some free time!
